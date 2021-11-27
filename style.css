@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    /* background-color: rgb(15, 108, 189); */
+}
+/* .uk-grid-small uk-flex-middle{
+    display: flex;
+    background: linear-gradient(rgb(18, 91, 226),rgb(255, 238, 0));
+} */
+.uk-card{
+    width: 100%;
+    color: white;
+}
+.a1{
+    margin-left:13px;
+}
+.uk-card-header{
+    background: linear-gradient(rgb(25, 93, 219),rgb(255, 238, 0));
+}
+.uk-card-footer{
+    margin-bottom: 40px;
+}
+time{
+    color: white;
+}
+.uk-card .uk-card-default{
+    background-color: khaki;
+}
+
+
+
